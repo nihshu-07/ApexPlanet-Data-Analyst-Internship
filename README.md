@@ -119,18 +119,7 @@ Example:
 
 ---
 
-## About Me
 
-I am an aspiring Data Analyst with a strong interest in data visualization, business intelligence, and solving real-world business problems through data.
-
-This internship helped me strengthen my skills in Python, SQL, Power BI, and business storytelling while building a complete portfolio project.
-
----
-
-## Connect With Me
-
-* LinkedIn: PASTE_YOUR_LINKEDIN_LINK_HERE
-* GitHub: PASTE_YOUR_GITHUB_PROFILE_LINK_HERE
 
 ---
 
